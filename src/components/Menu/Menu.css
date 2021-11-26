@@ -1,0 +1,22 @@
+.fullWidth{
+    max-width: 100% !important;
+    background: #00bcd4;
+}
+.myMenu > li:hover{
+    background: #ddd;
+    color: chartreuse;
+    border-radius: 8%;
+}
+.myMenu li {
+    color: #fff;
+    font-weight: 600;
+}
+.leftLogo {
+    width: 80px;
+    height: 70px;
+    cursor: pointer;
+}
+
+.siteName {
+    cursor: pointer;
+}
